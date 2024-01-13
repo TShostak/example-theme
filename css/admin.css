@@ -1,0 +1,3 @@
+.acf-repeater .ui-sortable tr:nth-child(even) .ui-sortable-handle {
+	background: #efdcdc;
+}
